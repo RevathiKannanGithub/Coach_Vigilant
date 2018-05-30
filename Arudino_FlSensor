@@ -1,3 +1,8 @@
+#####################################################################################
+## Reference links :
+## http://www.instructables.com/id/Flame-detection-using-Arduino-and-flame-sensor/
+#####################################################################################
+
 #include<SoftwareSerial.h>
 
 int sensorPin = A0; // select the input pin for the LDR
